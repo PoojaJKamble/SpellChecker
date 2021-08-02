@@ -11,4 +11,4 @@ Setup and installtion
 Documentation
 
 > Python: https://www.python.org/doc/
-> Teaxtblob:https://pypi.org/project/textblob/
+> Textblob:https://pypi.org/project/textblob/
